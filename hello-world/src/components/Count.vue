@@ -3,7 +3,7 @@
    <h1>Hello My Name is Sachin Kumar </h1>
    <p>Enter The Text Below <p>
      <p>Hello This Is a Charecter Count Text box<p>
-<input v-model="message" placeholder="Enter The Text Below Charecter Count">
+<input v-model="message" placeholder="Enter The Text Below Character Count">
 <p>Message is: {{ message.length }}</p>
 
 
